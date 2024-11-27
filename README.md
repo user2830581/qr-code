@@ -22,8 +22,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- [Solution URL: ](https://github.com/user2830581/qr-code)
-- [Live Site URL: ](https://qr-code-one-ivory.vercel.app/)
+- [Solution URL](https://github.com/user2830581/qr-code)
+- [Live Site URL](https://qr-code-one-ivory.vercel.app/)
 
 ## My process
 
