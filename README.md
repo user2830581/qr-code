@@ -15,6 +15,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Overview
 
+The project is a simple site that displays a QR code component which links to Frontend Mentor. The design is responsive and works on both mobile and desktops as per the design file.
+
 ### Screenshot
 
 ![](./qr-code-screenshot.png)
